@@ -1,3 +1,5 @@
+I made this project following this video https://www.youtube.com/watch?v=DTIYVffhJuU
+
 # NgPokemonApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
