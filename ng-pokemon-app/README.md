@@ -1,4 +1,3 @@
-I made this project following this video https://www.youtube.com/watch?v=DTIYVffhJuU
 
 # NgPokemonApp
 
