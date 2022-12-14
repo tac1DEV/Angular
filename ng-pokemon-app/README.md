@@ -1,5 +1,7 @@
 I made this project following this video https://www.youtube.com/watch?v=DTIYVffhJuU
 
+It is available here https://ng-pokemon-app-cd467.web.app/pokemons
+
 # NgPokemonApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
